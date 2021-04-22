@@ -1,5 +1,5 @@
 ### This code can clip and resample the input raster files.
-It provides follwing two main operations.
+It provides following two main operations.
 - Clip and resample an input raster file to match a reference raster.
 - Resample an input raster file to an arbitrary resolution and a region.
 
